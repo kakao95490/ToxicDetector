@@ -1,0 +1,5 @@
+asttokens==2.4.1  # Optionnel, utilisé pour les manipulations AST spécifiques si besoin
+spacy==3.6.0  # Remplacez par la version compatible avec votre projet
+tensorflow==2.13.0  # Recommandé pour les modèles Keras (peut varier selon le modèle)
+pandas==2.1.3  # Version suggérée, ajustez si nécessaire
+tkinter  # Inclus par défaut avec Python sur la plupart des OS, pas besoin de l'ajouter
